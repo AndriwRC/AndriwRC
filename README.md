@@ -1,1 +1,2 @@
 # Student and Web Developer
+I am a Systems Engineer with experience in web application development, skilled in modern frontend frameworks such as ReactJS and backend architecture using Python, Django REST Framework, and relational databases. Recognized for curiosity, fast learning, and collaborative teamwork, with a passion for delivering high-quality, scalable solutions. Seeking opportunities to apply technical expertise, contribute innovative ideas, and further advance in web development.
